@@ -1,6 +1,15 @@
 ![Alt Text](https://i.ibb.co/MkwqyM7/images-2.png)
 
-Global node running service specializing in supporting early-stage crypto projects across continents. Leveraging the robust cloud computing infrastructures of Vultr and DigitalOcean, we offer reliable lighnode and validator node hosting services in Asia, America, Europe, Australia, and Africa.
+Pak Node Army (PN-Army) is committed to ensuring the seamless operation of both light and full nodes. With over three years of experience in managing both types of nodes, we prioritize performance by utilizing top-tier cloud hosting platforms like Vultr and Digitalocean to consistently meet uptime expectations.
+
+🌟 Projects we currently supporting 🌟
+#### 🟢 ZeroGravity (0G) [Validator](https://testnet.ping.pub/0g-evmos/staking/evmosvaloper1jsa27d7qzu6jnzmwtyumy9476sfy0gw5y6nk0n)
+#### 🟢 Tanssi [Block Producer](https://telemetry.polkadot.io/#list/0x27aafd88e5921f5d5c6aebcd728dacbbf5c2a37f63e2eda301f8e0def01c43ea)
+#### 🟢 Warden Protocol [Validator](https://explorer.corenodehq.com/Warden%20Testnet/staking/wardenvaloper145cce2n65n52v6qkdnmq8ys6n9sj8a5sjyzp0v)
+#### 🟢 Nulink 
+#### 🟢 Powerloom
+#### 🟢 Shardeum
+
 
 <!---
 Paknodesarmy/Paknodesarmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
