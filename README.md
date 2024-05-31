@@ -1,4 +1,6 @@
-![Alt Text](https://i.ibb.co/MkwqyM7/images-2.png)
+![Alt text](<a href="https://imgbb.com/"><img src="https://i.ibb.co/VBGcxk5/r-Lm-WXI01-1.png" alt="r-Lm-WXI01-1" border="0"></a>)
+
+
 
 Pak Node Army (PN-Army) is committed to ensuring the seamless operation of both light and full nodes. With over three years of experience in managing both types of nodes, we prioritize performance by utilizing top-tier cloud hosting platforms like Vultr and Digitalocean to consistently meet uptime expectations.
 
