@@ -29,13 +29,15 @@ Our mission is to **strengthen the security** and **performance** of blockchain 
 
 - 🟢 **Nubit**
 - 🟢 **ZeroGravity (0G)**
-  - **Storage KV**
+  - **Storage KV** (Halted)
   - **Storage Node**
+  - **DA node**
+  - **DA Client**
   - **Validator** https://testnet.itrocket.net/og/staking/0gvaloper18juw8rlsykwdrl2l23269pe8n3p5v3j4tsntss
 - 🟢 **Tanssi Block Producer**
 - 🟢 **Shardeum**
 - 🟢 **Nesa miner** https://node.nesa.ai/nodes/5C5DfsgkLwaKdHWB3kNiwgvRQQtPeEtEeLwHbH8dQtTw
-- 🟢 **Hemi node**
+- 🟢 **Hemi node** https://testnet.popstats.hemi.network/pubkey/0272957BB5AE2DD90B0FFBF2F1E3A88BCBE87AF88CBF3AF7B5AC71AAEB7E95ED2B.html
 
 ## ⚪️ Projects on Pre-Mainnet
 
@@ -52,3 +54,4 @@ Our mission is to **strengthen the security** and **performance** of blockchain 
 
 - **Warden Protocol**
 - **Artela**
+- **Storage KV** (Halted)
