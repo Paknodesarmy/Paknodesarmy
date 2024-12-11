@@ -55,4 +55,3 @@ Our mission is to **strengthen the security** and **performance** of blockchain 
 
 - **Warden Protocol**
 - **Artela**
-- **Storage KV** (Halted)
